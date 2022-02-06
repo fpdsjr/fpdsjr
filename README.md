@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **flaviopds.jr@gmail.com**
 </br>
-</br>
+
 
 ---
 <h3 align="left">Technologies:</h3>
