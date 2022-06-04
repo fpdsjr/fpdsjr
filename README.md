@@ -1,6 +1,6 @@
 
 
-<h3> :man: &nbsp;Oi 👋, Me chamo Flávio Junior</h3>
+<h3> :man: &nbsp;Sobre min</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="lhttps://www.faeterj-rio.edu.br/">FAETERJ</a>.
