@@ -23,7 +23,7 @@
   ![Chai](https://img.shields.io/badge/-Chai-333333?style=flat&logo=Chai)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb)
-  ![PostegreSQL](https://img.shields.io/badge/-PostegreSQL-333333?style=flat&logo=postegresql)
+  
 
   
 **Utilidades**
